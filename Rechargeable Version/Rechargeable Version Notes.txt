@@ -2,4 +2,8 @@ Rechargable Version Notes
 Protection Fuse - Replaces Littlefuse L19 (Obsolete)
 https://www.littelfuse.com/products/fuses-overcurrent-protection/polyswitch-resettable-pptc-devices/battery-strap/lr4/lr4-190f
 
-Old PDF uploaded for reference
+Old PDF uploaded for reference as well as replacement.
+
+The new version actually cuts out power faster than the old version allowing more protection.
+
+There is a direct bourns replacement fuse but this is only available in high quantities.
